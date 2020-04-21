@@ -5,3 +5,5 @@ You'll need to setup mingw64 if your on Windows, and if you're on Linux just a q
 sudo apt-get install g++ 
 
 should be fine. You'll also have to setup SDL, so I recommend you check out my Youtube channel called codergopher. It will show you how to do just that, and who knows, you might even have a bit of fun, eh?
+
+Once the project is more completed, I'll start including prebuilt Windows and Linux binaries for the game, just for people who only want to play it. Until then, you'll have to compile it yourself.
