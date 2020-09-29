@@ -51,8 +51,6 @@ int main(int argc, char* args[])
 		}
 
 		window.clear();
-
-		std::cout << getTimeAsSeconds() << std::endl;
 		
 
 		for (Entity& e : entitiees)
